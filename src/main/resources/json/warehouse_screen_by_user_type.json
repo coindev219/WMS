@@ -1,0 +1,5012 @@
+[
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "Cost Bucket",
+        "screenName": "Create Cost Bucket"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "Cost Bucket",
+        "screenName": "Search Cost Bucket"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "Freight Forwarder",
+        "screenName": "Create Freight Forwarder"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "Freight Forwarder",
+        "screenName": "Update Freight Forwarder"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "PutAway Rules",
+        "screenName": "Associate Location Type To Pack Type"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "PutAway Rules",
+        "screenName": "Reserve Location For SKU"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "PutAway Rules",
+        "screenName": "Reserve Locations For Company"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "PutAway Rules",
+        "screenName": "Reserve Locations For SKU Category"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "PutAway Rules",
+        "screenName": "Search Company Reserved Locations"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "PutAway Rules",
+        "screenName": "Search SKU Reserved Locations"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "MHE Type",
+        "screenName": "Create MHE Type"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "MHE Type",
+        "screenName": "Search MHE Type"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "Pack Type",
+        "screenName": "Create Pack Type"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "Pack Type",
+        "screenName": "Update Pack Type"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "Route",
+        "screenName": "Create Route"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "Route",
+        "screenName": "Search Route"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "Vehicle Setup",
+        "screenName": "Create Target Time"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "Vehicle Setup",
+        "screenName": "Search Target Time"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "U OM",
+        "screenName": "Create UOM"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "U OM",
+        "screenName": "Search UOM"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "VAS Activity",
+        "screenName": "Create VAS Activity"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "VAS Activity",
+        "screenName": "Search VAS Activity"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "Vehicle Setup",
+        "screenName": "Create Vehicle Check List"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "Vehicle Setup",
+        "screenName": "Search Vehicle Check List"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "SKU Type",
+        "screenName": "Create SKU Type"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "SKU Type",
+        "screenName": "Search SKU Type"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "Resource Type",
+        "screenName": "Create Resource Type"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "Resource Type",
+        "screenName": "Search Resource Type"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "ReplenishmentSetup",
+        "screenName": "Replenishment Instruction Configuration"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "Resource Type",
+        "screenName": "Transaction Type Resource Type Mapping"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "Order Type",
+        "screenName": "Create Order Type"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "Order Type",
+        "screenName": "Search Order Type"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "Container Type",
+        "screenName": "Create Container Type"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "Container Type",
+        "screenName": "Search Container Type"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "Vehicle Setup",
+        "screenName": "Create Vehicle/Trailer Type"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "Vehicle Setup",
+        "screenName": "Search Vehicle/Trailer Type"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "Putaway Rules",
+        "screenName": "Dimension Definition Capacity"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "Vehicle Checklist",
+        "screenName": "Create Vehicle CheckList"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "Vehicle Checklist",
+        "screenName": "Search Vehicle CheckList"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "Vehicle Checklist",
+        "screenName": "Map Vehicle Checklist"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "Allocation Rules",
+        "screenName": "Allocation Priority"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "W/H Ad-hoc Activity",
+        "screenName": "Create W/H Ad-hoc Activity"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "W/H Ad-hoc Activity",
+        "screenName": "Search W/H Ad-hoc Activity"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "Cost Bucket",
+        "screenName": "Search SKU Cost"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "Target Time",
+        "screenName": "Create"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "Target Time",
+        "screenName": "Search"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "Vehicle Check List",
+        "screenName": "Create Vehicle Check List"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "Vehicle Check List",
+        "screenName": "Search Vehicle Check List"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "Order Type",
+        "screenName": "Override Default Transaction Type"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "Order Type",
+        "screenName": "Manage Default Transaction Type Overrides"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Administration",
+        "subMenu": "Users",
+        "screenName": "PrintLabels"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Administration",
+        "subMenu": "License Management",
+        "screenName": "License Information"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Administration",
+        "subMenu": "Interface",
+        "screenName": "Download File Template"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Administration",
+        "subMenu": "Interface",
+        "screenName": "File Upload"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Administration",
+        "subMenu": "Interface",
+        "screenName": "Log"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Administration",
+        "subMenu": "Users",
+        "screenName": "Map User Cost Bucket"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Administration",
+        "subMenu": "Users",
+        "screenName": "Map User Company"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Administration",
+        "subMenu": "Users",
+        "screenName": "Map User Role"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Administration",
+        "subMenu": "Users",
+        "screenName": "Map User Warehouse"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Administration",
+        "subMenu": "Users",
+        "screenName": "Change Password"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Administration",
+        "subMenu": "Users",
+        "screenName": "Search Users"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Inventory Origin Report"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Kitting",
+        "screenName": "Create KIT"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Stock Taking",
+        "screenName": "Redownload Internal Stock Movement Slip"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Enquiry",
+        "screenName": "Stock Ledger"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Inventory Reconciliation",
+        "screenName": "Inventory Reconciliation By Name"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Inventory Reconciliation",
+        "screenName": "Inventory Reconciliation By Inst. No."
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Inventory Reconciliation",
+        "screenName": "Inventory Reconciliation By SKU"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Kitting",
+        "screenName": "De-Kitting"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Stock Taking Variance Reports"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Stock Taking",
+        "screenName": "Adjust Stock"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Stock Taking",
+        "screenName": "Clear Stock Taking Instruction"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Stock Taking",
+        "screenName": "Create Stock Taking Instruction"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Stock Taking",
+        "screenName": "Re Download Stock Taking Excel"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Stock Taking",
+        "screenName": "Stock Taking Instruction Report"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Stock Taking",
+        "screenName": "Upload Stock Taking Instruction"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Stock Transfer",
+        "screenName": "Resource Capture"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Inventory Reconciliation",
+        "screenName": "Redownload Internal Stock Movement Slip"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Forecast",
+        "screenName": "Run Forecast"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Forecast",
+        "screenName": "Convert Orders"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Forecast",
+        "screenName": "Forecast Confirmation Upload"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Goods Received Note Report"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Daily Movement Report"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Inventory Reconciliation",
+        "screenName": "Cancel Stock Taking Instruction"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Primary Company Wise Location Utilization Report"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Last Cut Off Documents Report"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Planned Vs Actual Material In Reports"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Current Inventory Reports"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Material Dispatch Reports"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Material In Out Reports"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Material In Reports"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Approval",
+        "screenName": "Exceptional Quantity Approvals"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Approval",
+        "screenName": "Pack Exceptional Quantity Approvals"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Cycle Count",
+        "screenName": "Adjust Stock"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Cycle Count",
+        "screenName": "Clear Cycle Count Instruction"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Cycle Count",
+        "screenName": "Create Cycle Count Instruction"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Cycle Count",
+        "screenName": "Cycle Count Instruction Report"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Cycle Count",
+        "screenName": "Re Download Cycle Count Excel"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Cycle Count",
+        "screenName": "Upload Cycle Count Instruction"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Enquiry",
+        "screenName": "Search Inventory Exceptions"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Enquiry",
+        "screenName": "Search SKU Stock"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Enquiry",
+        "screenName": "Search SKU Stock Transactions"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Component SKU Issue And Receipts Report"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Customer Wise Sales Return Reason Reports"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Cycle Count Variance Reports"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Daily Inward Outward Reports"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Damages Breakdown Reports"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Damages Reports"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Empty Bins Reports"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Internal Stock Transfer Reports"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Inventory Summary Reports"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Kits And Components Report"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Location Utilization Report"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Material Movement Reports"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Out Of Stock Inventory Reports"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "SKU Stock Report With Weight"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "SKU Wise Sales Return Reason Reports"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Product Batch Dispatch Reports"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Shortage Reports"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Stock Reports"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Inventory Reconciliation Variance Report"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Inventory Reconciliation",
+        "screenName": "Adjust Stock"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Inventory Reconciliation",
+        "screenName": "Clear Stock Taking Instruction"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Inventory Reconciliation",
+        "screenName": "Create Stock Taking Instruction"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Inventory Reconciliation",
+        "screenName": "Re Download Stock Taking Excel"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Inventory Reconciliation",
+        "screenName": "Inventory Reconciliation Report"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Inventory Reconciliation",
+        "screenName": "Upload Stock Taking Instruction"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Stock Transfer",
+        "screenName": "Confirm Stock Transfer"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Stock Transfer",
+        "screenName": "Create External Stock Transfer"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Stock Transfer",
+        "screenName": "Create Internal Stock Transfer"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Stock Transfer",
+        "screenName": "Upload Stock Transfer"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Stock Write Off",
+        "screenName": "Write Off Invoice"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "U OM Conversion",
+        "screenName": "Inventory UOM Conversion"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Cycle Count Awaiting Adjustment"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Stock Awaiting Adjustment"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Carton Damage to Onhand"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Damage to Carton Damage"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Damage to Damage Unit"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Damage to Graded"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Damage to Insured"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Damage Unit to Onhand"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Graded to Onhand"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Incoming Damage to OnHand"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Incoming Shortage to OnHand"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - InStock Damage to OnHand"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - InStock Shortage to OnHand"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Insured to Onhand"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Onhand to Damage"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Onhand to Excess"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Onhand to Returned"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Outgoing Damage to OnHand"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Outgoing Shortage to OnHand"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST Of AllocatedStock"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST Of Cusissue"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST Of OnhandStock"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory Exceptions",
+        "screenName": "LocationTransferOfAllocatedStock Exception Waiting for Approval"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory Exceptions",
+        "screenName": "SKUQAAndBinning Exception Waiting for Approval"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory Exceptions",
+        "screenName": "Picking Exception Waiting for Approval"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory Exceptions",
+        "screenName": "StockTransferfromIncomingDamagetoOnHand Exception Waiting for Approval"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Receipts",
+        "screenName": "CancelPickingSlip Waiting For Confirmation"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Receipts",
+        "screenName": "SKU QA & Binning Slip Waiting for Confirmation"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Receipts",
+        "screenName": "Unconfirmed IST Of Cusissue"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Receipts",
+        "screenName": "Waiting for GateInward"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Receipts",
+        "screenName": "Waiting for Inbound SKU Movement"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Receipts",
+        "screenName": "Waiting for Stock Transfer from Onhand to Damaged"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Sales",
+        "screenName": "OutgoingPackingSlip Waiting For Confirmation"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Sales",
+        "screenName": "Pick And Load Waiting for Confirmation"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Sales",
+        "screenName": "PickingSlip Waiting For Confirmation"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Sales",
+        "screenName": "PickToPackSlip Waiting For Confirmation"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Sales",
+        "screenName": "Sales Order Marked for Cancellation"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Sales",
+        "screenName": "Sales Order Waiting For Approval"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Inbound SKU Movement",
+        "screenName": "SKU Labelling Document Wise"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Out Bound SKU Movement",
+        "screenName": "SKU Labelling Picking Wise"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Advance Shipping Note",
+        "screenName": "Create Advance Shipping Note With PO"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Advance Shipping Note",
+        "screenName": "Create Advance Shipping Notewithout PO"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Advance Shipping Note",
+        "screenName": "Update Advance Shipping Notewithout PO"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Advance Shipping Note",
+        "screenName": "Upload Advance Shipping Note without PO"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Advance Shipping Note",
+        "screenName": "Upload Advance Shipping Notewithout PO With Kit"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Inbound SKU Movement",
+        "screenName": "Re Download Inbound SKU Movement Slip"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Inbound SKU Movement",
+        "screenName": "Reprint Inbound SKU Movement Report"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Enquiry",
+        "screenName": "Search Advance Shipping Notes"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Enquiry",
+        "screenName": "Search Gate Inward"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Enquiry",
+        "screenName": "Search Gate Inward Line Wise"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Enquiry",
+        "screenName": "Search Inbound SKU Movement"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Enquiry",
+        "screenName": "Search Purchase Orders"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Gate Inward",
+        "screenName": "Create Gate Inward"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Gate Inward",
+        "screenName": "Create Gate Inward And Count"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Inbound SKU Movement",
+        "screenName": "Confirm Inbound SKU Movement"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Inbound SKU Movement",
+        "screenName": "Create Inbound SKU Movement"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Inbound SKU Movement",
+        "screenName": "Upload Inbound SKU Movement"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Miscellaneous Receipts",
+        "screenName": "Create Miscellaneous Receipt"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Miscellaneous Receipts",
+        "screenName": "Miscellaneous Receipt Upload"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Purchase Orders",
+        "screenName": "Create Purchase Order"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Reports",
+        "screenName": "ASN Update History Report"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Reports",
+        "screenName": "Goods Inward Report"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Reports",
+        "screenName": "GRN Reconciliation Reports"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Reports",
+        "screenName": "Inbound Discrepancy Reports"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Reports",
+        "screenName": "Miscellaneous Receipt Reports"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Reports",
+        "screenName": "Receiving Turn Around Time Reports"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Purchase Orders",
+        "screenName": "Update Purchase Orders"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Inbound SKU Movement",
+        "screenName": "Resource Capture"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Enquiry",
+        "screenName": "Search PO Line"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Reports",
+        "screenName": "PO Details Report"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Reports",
+        "screenName": "PO Reconciliation Report"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Sales",
+        "subMenu": "Outbound Pack Movement",
+        "screenName": "Confirm Out Bound Pack Movement Slip"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Sales",
+        "subMenu": "Out Bound SKU Movement",
+        "screenName": "Resource Capture"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Sales",
+        "subMenu": "Allocation",
+        "screenName": "Cancel Allocation"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Sales",
+        "subMenu": "Allocation",
+        "screenName": "Manual Allocation"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Sales",
+        "subMenu": "Allocation",
+        "screenName": "Retry Crossdock Allocation"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Sales",
+        "subMenu": "Out Bound Pack Movement",
+        "screenName": "Redownload Out Bound Pack Movement Slip"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Sales",
+        "subMenu": "Out Bound SKU Movement",
+        "screenName": "Redownload Out Bound SKU Movement Slip"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Sales",
+        "subMenu": "Out Bound Pack Movement",
+        "screenName": "Reprint Out Bound Pack Movement Report"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Sales",
+        "subMenu": "Out Bound SKU Movement",
+        "screenName": "Reprint Out Bound SKU Movement Report"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Sales",
+        "subMenu": "Enquiry",
+        "screenName": "Search Dispatch Note"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Sales",
+        "subMenu": "Enquiry",
+        "screenName": "Search Outbound Pack Movement"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Sales",
+        "subMenu": "Enquiry",
+        "screenName": "Search Outbound SKU Movement"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Sales",
+        "subMenu": "Enquiry",
+        "screenName": "Search Proof Of Delivery"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Sales",
+        "subMenu": "Enquiry",
+        "screenName": "Search Sales Order"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Sales",
+        "subMenu": "Enquiry",
+        "screenName": "Searchsales Order line"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Sales",
+        "subMenu": "Out Bound SKU Movement",
+        "screenName": "Confirm Out Bound SKU Movement Slip"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Sales",
+        "subMenu": "Out Bound SKU Movement",
+        "screenName": "Create Outbound SKU Movement"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Sales",
+        "subMenu": "Out Bound SKU Movement",
+        "screenName": "Upload Out Bound SKU Movement Slip"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Sales",
+        "subMenu": "Out Bound SKU Movement",
+        "screenName": "Confirm Out Bound Pack Movement Slip"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Sales",
+        "subMenu": "Outbound Pack Movement",
+        "screenName": "Create Outbound Pack Movement"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Sales",
+        "subMenu": "Outbound Pack Movement",
+        "screenName": "Upload Out Bound Pack Movement Slip"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Sales",
+        "subMenu": "Packing",
+        "screenName": "Close Pack"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Sales",
+        "subMenu": "Packing",
+        "screenName": "Create Packing"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Sales",
+        "subMenu": "Packing",
+        "screenName": "Merge Pack"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Sales",
+        "subMenu": "Packing",
+        "screenName": "Upload Pack"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Sales",
+        "subMenu": "Reports",
+        "screenName": "Misc Issue Write Off Report"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Sales",
+        "subMenu": "Reports",
+        "screenName": "Outbound Turn Around Time Report"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Sales",
+        "subMenu": "Reports",
+        "screenName": "Pack Report"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Sales",
+        "subMenu": "Reports",
+        "screenName": "Packing List Report"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Sales",
+        "subMenu": "Dispatch Note",
+        "screenName": "Cancel Dispatch Note"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Sales",
+        "subMenu": "Dispatch Note",
+        "screenName": "Close Dispatch Note"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Sales",
+        "subMenu": "Dispatch Note",
+        "screenName": "Create And Close Dispatch Note"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Sales",
+        "subMenu": "Dispatch Note",
+        "screenName": "Create Dispatch Note"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Sales",
+        "subMenu": "Dispatch Note",
+        "screenName": "Create Dispatch Note From Loaded"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Sales",
+        "subMenu": "Dispatch Note",
+        "screenName": "Create Dispatch Note From Picking"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Sales",
+        "subMenu": "Material Out",
+        "screenName": "Create Miscellaneous Issue"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Sales",
+        "subMenu": "Proof Of Delivery",
+        "screenName": "Create Proof Of Delivery"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Sales",
+        "subMenu": "Reports",
+        "screenName": "SO Update History Report"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Sales",
+        "subMenu": "Reports",
+        "screenName": "VLS Report"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Sales",
+        "subMenu": "Sales Order",
+        "screenName": "Approve Sales Order"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Sales",
+        "subMenu": "Sales Order",
+        "screenName": "Back Order Cancellation"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Sales",
+        "subMenu": "Sales Order",
+        "screenName": "Cancel Sales Order Lines"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Sales",
+        "subMenu": "Sales Order",
+        "screenName": "Create Sales Order"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Sales",
+        "subMenu": "Sales Order",
+        "screenName": "Print Sales Order"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Sales",
+        "subMenu": "Sales Order",
+        "screenName": "Update Packing List"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Sales",
+        "subMenu": "Sales Order",
+        "screenName": "Update Sales Order"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Sales",
+        "subMenu": "Sales Order",
+        "screenName": "Upload Sales Order"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Sales",
+        "subMenu": "Sales Order",
+        "screenName": "Upload Sales Order With Kit BOM"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Sales",
+        "subMenu": "Sales Order",
+        "screenName": "Vehicle Loading Slip"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Sales",
+        "subMenu": "Sales Return",
+        "screenName": "Confirm Sales Returns"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Sales",
+        "subMenu": "Sales Return",
+        "screenName": "Create Sales Returns"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Sales",
+        "subMenu": "Dispatch Note",
+        "screenName": "Loading Report"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Sales",
+        "subMenu": "Dispatch Note",
+        "screenName": "Print Delivery Challan"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Sales",
+        "subMenu": "Dispatch Note",
+        "screenName": "Print Dispatch Note"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Sales",
+        "subMenu": "Dispatch Note",
+        "screenName": "Upload Tracking Number"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Sales",
+        "subMenu": "Out Bound SKU Movement",
+        "screenName": "Confirm Outbound SKU Movement"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Sales",
+        "subMenu": "Sales Order",
+        "screenName": "Vehicle Inward Register"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Setup",
+        "subMenu": "Supplier",
+        "screenName": "Create Supplier Lead Time"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Setup",
+        "subMenu": "Supplier",
+        "screenName": "Search Supplier Lead Time"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Setup",
+        "subMenu": "Primary Company Setup",
+        "screenName": "Create Customer Type"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Setup",
+        "subMenu": "Primary Company Setup",
+        "screenName": "Create Packing Group"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Setup",
+        "subMenu": "Primary Company Setup",
+        "screenName": "Search Purchase Order Type"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Setup",
+        "subMenu": "Primary Company Setup",
+        "screenName": "Search Reason"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Setup",
+        "subMenu": "Primary Company Setup",
+        "screenName": "Search Sales Order Type"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Setup",
+        "subMenu": "Primary Company Setup",
+        "screenName": "Update Primary Company"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Setup",
+        "subMenu": "Warehouse Setup",
+        "screenName": "Printer Configuration"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Setup",
+        "subMenu": "Warehouse Setup",
+        "screenName": "Search Warehouse"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Setup",
+        "subMenu": "Primary Company Setup",
+        "screenName": "Create Purchase Order Type"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Setup",
+        "subMenu": "Primary Company Setup",
+        "screenName": "Create Reason"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Setup",
+        "subMenu": "Primary Company Setup",
+        "screenName": "Create Sales Order Type"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Setup",
+        "subMenu": "Primary Company Setup",
+        "screenName": "Map Warehouse Company"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Setup",
+        "subMenu": "Primary Company Setup",
+        "screenName": "Primary Company Setup"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Setup",
+        "subMenu": "Primary Company Setup",
+        "screenName": "Search Customer Type"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Setup",
+        "subMenu": "Primary Company Setup",
+        "screenName": "Search Packing Group"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Setup",
+        "subMenu": "SKU",
+        "screenName": "SKU Labelling SKU Wise"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Setup",
+        "subMenu": "SKU",
+        "screenName": "Update SKU Inventory"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Setup",
+        "subMenu": "SKU",
+        "screenName": "Upload SKU Description Update"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Setup",
+        "subMenu": "Location Configuration",
+        "screenName": "Upload Locations"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Setup",
+        "subMenu": "Supplier",
+        "screenName": "Create Supplier"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Setup",
+        "subMenu": "Supplier",
+        "screenName": "Search Supplier"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Setup",
+        "subMenu": "Location Configuration",
+        "screenName": "Search Dimension Definition"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Setup",
+        "subMenu": "Location Configuration",
+        "screenName": "Search Location Hierarchy"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Setup",
+        "subMenu": "Location Configuration",
+        "screenName": "Search Location Restriction"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Setup",
+        "subMenu": "Location Configuration",
+        "screenName": "Search Location Type Pack Type Associations"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Setup",
+        "subMenu": "Location Configuration",
+        "screenName": "Search Locations"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Setup",
+        "subMenu": "SKU",
+        "screenName": "Create SKU"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Setup",
+        "subMenu": "SKU",
+        "screenName": "Create SKU Additional UOM"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Setup",
+        "subMenu": "SKU",
+        "screenName": "Create SKU Category"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Setup",
+        "subMenu": "SKU",
+        "screenName": "SKU Inventory Upload"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Setup",
+        "subMenu": "SKU",
+        "screenName": "SKU Supplier Mapping"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Setup",
+        "subMenu": "SKU",
+        "screenName": "SKU Upload"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Setup",
+        "subMenu": "SKU",
+        "screenName": "SKU Warehouse Mapping"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Setup",
+        "subMenu": "SKU",
+        "screenName": "Search SKU"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Setup",
+        "subMenu": "SKU",
+        "screenName": "Search SKU Category"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Setup",
+        "subMenu": "SKU",
+        "screenName": "SKU Cost Bucket Mapping"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Setup",
+        "subMenu": "SKU",
+        "screenName": "B OM Creation"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Setup",
+        "subMenu": "Location Configuration",
+        "screenName": "Auto Generate Locations"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Setup",
+        "subMenu": "Location Configuration",
+        "screenName": "Create Dimension Definition"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Setup",
+        "subMenu": "Location Configuration",
+        "screenName": "Create Location Hierarchy"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Setup",
+        "subMenu": "Location Configuration",
+        "screenName": "Create Location Restriction"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Setup",
+        "subMenu": "Location Configuration",
+        "screenName": "Create Locations"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Setup",
+        "subMenu": "Location Configuration",
+        "screenName": "Location Labelling"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Setup",
+        "subMenu": "Location Configuration",
+        "screenName": "Print Location Tags"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Setup",
+        "subMenu": "Customers",
+        "screenName": "Create Additional Bill To Address"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Setup",
+        "subMenu": "Customers",
+        "screenName": "Create Additional Ship To Address"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Setup",
+        "subMenu": "Customers",
+        "screenName": "Create Customer"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Setup",
+        "subMenu": "Customers",
+        "screenName": "Create Customer SKU Shelf Life"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Setup",
+        "subMenu": "Customers",
+        "screenName": "Create Customer Wise SKU Total Shelf Life"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Setup",
+        "subMenu": "Customers",
+        "screenName": "Create Warehouse Wise Allocation Priority Rules"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Setup",
+        "subMenu": "Customers",
+        "screenName": "Search Additional Bill To Address"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Setup",
+        "subMenu": "Customers",
+        "screenName": "Search Additional Ship To Address"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Setup",
+        "subMenu": "Customers",
+        "screenName": "Search Customer"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Setup",
+        "subMenu": "Warehouse Setup",
+        "screenName": "Capture Warehouse Running Cost"
+    },
+    {
+        "userType": "PowerUser",
+        "mainMenu": "Warehouse",
+        "subMenu": "Warehouse",
+        "screenName": "Search Warehouse Running Cost"
+    },
+    {
+        "userType": "CustomerUser",
+        "mainMenu": "Administration",
+        "subMenu": "Interface",
+        "screenName": "Download File Template"
+    },
+    {
+        "userType": "CustomerUser",
+        "mainMenu": "Administration",
+        "subMenu": "Interface",
+        "screenName": "File Upload"
+    },
+    {
+        "userType": "CustomerUser",
+        "mainMenu": "Administration",
+        "subMenu": "Interface",
+        "screenName": "Log"
+    },
+    {
+        "userType": "CustomerUser",
+        "mainMenu": "Administration",
+        "subMenu": "Users",
+        "screenName": "Change Password"
+    },
+    {
+        "userType": "CustomerUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Inventory Summary Reports"
+    },
+    {
+        "userType": "CustomerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Cycle Count Awaiting Adjustment"
+    },
+    {
+        "userType": "CustomerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Stock Awaiting Adjustment"
+    },
+    {
+        "userType": "CustomerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Carton Damage to Onhand"
+    },
+    {
+        "userType": "CustomerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Damage to Carton Damage"
+    },
+    {
+        "userType": "CustomerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Damage to Damage Unit"
+    },
+    {
+        "userType": "CustomerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Damage to Graded"
+    },
+    {
+        "userType": "CustomerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Damage to Insured"
+    },
+    {
+        "userType": "CustomerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Damage Unit to Onhand"
+    },
+    {
+        "userType": "CustomerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Graded to Onhand"
+    },
+    {
+        "userType": "CustomerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Incoming Damage to OnHand"
+    },
+    {
+        "userType": "CustomerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Incoming Shortage to OnHand"
+    },
+    {
+        "userType": "CustomerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - InStock Damage to OnHand"
+    },
+    {
+        "userType": "CustomerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - InStock Shortage to OnHand"
+    },
+    {
+        "userType": "CustomerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Insured to Onhand"
+    },
+    {
+        "userType": "CustomerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Onhand to Damage"
+    },
+    {
+        "userType": "CustomerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Onhand to Excess"
+    },
+    {
+        "userType": "CustomerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Onhand to Returned"
+    },
+    {
+        "userType": "CustomerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Outgoing Damage to OnHand"
+    },
+    {
+        "userType": "CustomerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Outgoing Shortage to OnHand"
+    },
+    {
+        "userType": "CustomerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST Of AllocatedStock"
+    },
+    {
+        "userType": "CustomerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST Of Cusissue"
+    },
+    {
+        "userType": "CustomerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST Of OnhandStock"
+    },
+    {
+        "userType": "CustomerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory Exceptions",
+        "screenName": "LocationTransferOfAllocatedStock Exception Waiting for Approval"
+    },
+    {
+        "userType": "CustomerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory Exceptions",
+        "screenName": "SKUQAAndBinning Exception Waiting for Approval"
+    },
+    {
+        "userType": "CustomerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory Exceptions",
+        "screenName": "Picking Exception Waiting for Approval"
+    },
+    {
+        "userType": "CustomerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory Exceptions",
+        "screenName": "StockTransferfromIncomingDamagetoOnHand Exception Waiting for Approval"
+    },
+    {
+        "userType": "CustomerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Receipts",
+        "screenName": "CancelPickingSlip Waiting For Confirmation"
+    },
+    {
+        "userType": "CustomerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Receipts",
+        "screenName": "SKU QA & Binning Slip Waiting for Confirmation"
+    },
+    {
+        "userType": "CustomerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Receipts",
+        "screenName": "Unconfirmed IST Of Cusissue"
+    },
+    {
+        "userType": "CustomerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Receipts",
+        "screenName": "Waiting for GateInward"
+    },
+    {
+        "userType": "CustomerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Receipts",
+        "screenName": "Waiting for Inbound SKU Movement"
+    },
+    {
+        "userType": "CustomerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Receipts",
+        "screenName": "Waiting for Stock Transfer from Onhand to Damaged"
+    },
+    {
+        "userType": "CustomerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Sales",
+        "screenName": "OutgoingPackingSlip Waiting For Confirmation"
+    },
+    {
+        "userType": "CustomerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Sales",
+        "screenName": "Pick And Load Waiting for Confirmation"
+    },
+    {
+        "userType": "CustomerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Sales",
+        "screenName": "PickingSlip Waiting For Confirmation"
+    },
+    {
+        "userType": "CustomerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Sales",
+        "screenName": "PickToPackSlip Waiting For Confirmation"
+    },
+    {
+        "userType": "CustomerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Sales",
+        "screenName": "Sales Order Marked for Cancellation"
+    },
+    {
+        "userType": "CustomerUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Sales",
+        "screenName": "Sales Order Waiting For Approval"
+    },
+    {
+        "userType": "CustomerUser",
+        "mainMenu": "Sales",
+        "subMenu": "Dispatch Note",
+        "screenName": "Loading Report"
+    },
+    {
+        "userType": "CustomerUser",
+        "mainMenu": "Sales",
+        "subMenu": "Dispatch Note",
+        "screenName": "Print Delivery Challan"
+    },
+    {
+        "userType": "CustomerUser",
+        "mainMenu": "Sales",
+        "subMenu": "Dispatch Note",
+        "screenName": "Print Dispatch Note"
+    },
+    {
+        "userType": "CustomerUser",
+        "mainMenu": "Sales",
+        "subMenu": "Enquiry",
+        "screenName": "Search Sales Order"
+    },
+    {
+        "userType": "CustomerUser",
+        "mainMenu": "Sales",
+        "subMenu": "Sales Order",
+        "screenName": "Cancel Sales Order Lines"
+    },
+    {
+        "userType": "CustomerUser",
+        "mainMenu": "Sales",
+        "subMenu": "Sales Order",
+        "screenName": "Create Sales Order"
+    },
+    {
+        "userType": "CustomerUser",
+        "mainMenu": "Sales",
+        "subMenu": "Sales Order",
+        "screenName": "Update Sales Order"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Administration",
+        "subMenu": "Users",
+        "screenName": "Change Password"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Administration",
+        "subMenu": "Interface",
+        "screenName": "Download File Template"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Administration",
+        "subMenu": "Interface",
+        "screenName": "File Upload"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Administration",
+        "subMenu": "Interface",
+        "screenName": "Log"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Current Inventory Reports"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Material Dispatch Reports"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Material In Out Reports"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Material In Reports"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Stock Taking Variance Reports"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Enquiry",
+        "screenName": "Search Inventory Exceptions"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Enquiry",
+        "screenName": "Search SKU Stock"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Component SKU Issue And Receipts Report"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Customer Wise Sales Return Reason Reports"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Cycle Count Variance Reports"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Daily Inward Outward Reports"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Damages Breakdown Reports"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Damages Reports"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Empty Bins Reports"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Internal Stock Transfer Reports"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Inventory Summary Reports"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Kits And Components Report"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Location Utilization Report"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Material Movement Reports"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Out Of Stock Inventory Reports"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "SKU Stock Report With Weight"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "SKU Wise Sales Return Reason Reports"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Product Batch Dispatch Reports"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Shortage Reports"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Stock Reports"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Stock Transfer",
+        "screenName": "Create External Stock Transfer"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Cycle Count Awaiting Adjustment"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Stock Awaiting Adjustment"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Carton Damage to Onhand"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Damage to Carton Damage"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Damage to Damage Unit"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Damage to Graded"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Damage to Insured"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Damage Unit to Onhand"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Graded to Onhand"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Incoming Damage to OnHand"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Incoming Shortage to OnHand"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - InStock Damage to OnHand"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - InStock Shortage to OnHand"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Insured to Onhand"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Onhand to Damage"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Onhand to Excess"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Onhand to Returned"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Outgoing Damage to OnHand"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Outgoing Shortage to OnHand"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST Of AllocatedStock"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST Of Cusissue"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST Of OnhandStock"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory Exceptions",
+        "screenName": "LocationTransferOfAllocatedStock Exception Waiting for Approval"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory Exceptions",
+        "screenName": "SKUQAAndBinning Exception Waiting for Approval"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory Exceptions",
+        "screenName": "Picking Exception Waiting for Approval"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory Exceptions",
+        "screenName": "StockTransferfromIncomingDamagetoOnHand Exception Waiting for Approval"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Receipts",
+        "screenName": "CancelPickingSlip Waiting For Confirmation"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Receipts",
+        "screenName": "SKU QA & Binning Slip Waiting for Confirmation"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Receipts",
+        "screenName": "Unconfirmed IST Of Cusissue"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Receipts",
+        "screenName": "Waiting for GateInward"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Receipts",
+        "screenName": "Waiting for Inbound SKU Movement"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Receipts",
+        "screenName": "Waiting for Stock Transfer from Onhand to Damaged"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Sales",
+        "screenName": "OutgoingPackingSlip Waiting For Confirmation"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Sales",
+        "screenName": "Pick And Load Waiting for Confirmation"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Sales",
+        "screenName": "PickingSlip Waiting For Confirmation"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Sales",
+        "screenName": "PickToPackSlip Waiting For Confirmation"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Sales",
+        "screenName": "Sales Order Marked for Cancellation"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Sales",
+        "screenName": "Sales Order Waiting For Approval"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Purchase Orders",
+        "screenName": "Update Purchase Orders"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Enquiry",
+        "screenName": "Search PO Line"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Advance Shipping Note",
+        "screenName": "Create Advance Shipping Note With PO"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Advance Shipping Note",
+        "screenName": "Create Advance Shipping Notewithout PO"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Advance Shipping Note",
+        "screenName": "Update Advance Shipping Notewithout PO"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Enquiry",
+        "screenName": "Search Advance Shipping Notes"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Enquiry",
+        "screenName": "Search Gate Inward Line Wise"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Enquiry",
+        "screenName": "Search Purchase Orders"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Reports",
+        "screenName": "ASN Update History Report"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Reports",
+        "screenName": "Goods Inward Report"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Reports",
+        "screenName": "GRN Reconciliation Reports"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Reports",
+        "screenName": "Miscellaneous Receipt Reports"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Reports",
+        "screenName": "PO Details Report"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Reports",
+        "screenName": "PO Reconciliation Report"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Sales",
+        "subMenu": "Dispatch Note",
+        "screenName": "Loading Report"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Sales",
+        "subMenu": "Dispatch Note",
+        "screenName": "Print Delivery Challan"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Sales",
+        "subMenu": "Dispatch Note",
+        "screenName": "Print Dispatch Note"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Sales",
+        "subMenu": "Enquiry",
+        "screenName": "Search Sales Order"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Sales",
+        "subMenu": "Sales Order",
+        "screenName": "Cancel Sales Order Lines"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Sales",
+        "subMenu": "Sales Order",
+        "screenName": "Create Sales Order"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Sales",
+        "subMenu": "Sales Order",
+        "screenName": "Update Sales Order"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Setup",
+        "subMenu": "SKU",
+        "screenName": "B OM Creation"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Setup",
+        "subMenu": "SKU",
+        "screenName": "Create SKU"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Setup",
+        "subMenu": "SKU",
+        "screenName": "Create SKU Additional UOM"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Setup",
+        "subMenu": "SKU",
+        "screenName": "Create SKU Category"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Setup",
+        "subMenu": "SKU",
+        "screenName": "SKU Supplier Mapping"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Setup",
+        "subMenu": "SKU",
+        "screenName": "Search SKU"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Setup",
+        "subMenu": "SKU",
+        "screenName": "Search SKU Category"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Setup",
+        "subMenu": "SKU",
+        "screenName": "Update SKU Inventory"
+    },
+    {
+        "userType": "PrimaryCompanyUser",
+        "mainMenu": "Setup",
+        "subMenu": "SKU",
+        "screenName": "SKU Labelling SKU Wise"
+    },
+    {
+        "userType": "SupplierUser",
+        "mainMenu": "Administration",
+        "subMenu": "Interface",
+        "screenName": "Download File Template"
+    },
+    {
+        "userType": "SupplierUser",
+        "mainMenu": "Administration",
+        "subMenu": "Interface",
+        "screenName": "File Upload"
+    },
+    {
+        "userType": "SupplierUser",
+        "mainMenu": "Administration",
+        "subMenu": "Interface",
+        "screenName": "Log"
+    },
+    {
+        "userType": "SupplierUser",
+        "mainMenu": "Administration",
+        "subMenu": "Users",
+        "screenName": "Change Password"
+    },
+    {
+        "userType": "SupplierUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Cycle Count Awaiting Adjustment"
+    },
+    {
+        "userType": "SupplierUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Stock Awaiting Adjustment"
+    },
+    {
+        "userType": "SupplierUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Carton Damage to Onhand"
+    },
+    {
+        "userType": "SupplierUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Damage to Carton Damage"
+    },
+    {
+        "userType": "SupplierUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Damage to Damage Unit"
+    },
+    {
+        "userType": "SupplierUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Damage to Graded"
+    },
+    {
+        "userType": "SupplierUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Damage to Insured"
+    },
+    {
+        "userType": "SupplierUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Damage Unit to Onhand"
+    },
+    {
+        "userType": "SupplierUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Graded to Onhand"
+    },
+    {
+        "userType": "SupplierUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Incoming Damage to OnHand"
+    },
+    {
+        "userType": "SupplierUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Incoming Shortage to OnHand"
+    },
+    {
+        "userType": "SupplierUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - InStock Damage to OnHand"
+    },
+    {
+        "userType": "SupplierUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - InStock Shortage to OnHand"
+    },
+    {
+        "userType": "SupplierUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Insured to Onhand"
+    },
+    {
+        "userType": "SupplierUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Onhand to Damage"
+    },
+    {
+        "userType": "SupplierUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Onhand to Excess"
+    },
+    {
+        "userType": "SupplierUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Onhand to Returned"
+    },
+    {
+        "userType": "SupplierUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Outgoing Damage to OnHand"
+    },
+    {
+        "userType": "SupplierUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Outgoing Shortage to OnHand"
+    },
+    {
+        "userType": "SupplierUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST Of AllocatedStock"
+    },
+    {
+        "userType": "SupplierUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST Of Cusissue"
+    },
+    {
+        "userType": "SupplierUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST Of OnhandStock"
+    },
+    {
+        "userType": "SupplierUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory Exceptions",
+        "screenName": "LocationTransferOfAllocatedStock Exception Waiting for Approval"
+    },
+    {
+        "userType": "SupplierUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory Exceptions",
+        "screenName": "SKUQAAndBinning Exception Waiting for Approval"
+    },
+    {
+        "userType": "SupplierUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory Exceptions",
+        "screenName": "Picking Exception Waiting for Approval"
+    },
+    {
+        "userType": "SupplierUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory Exceptions",
+        "screenName": "StockTransferfromIncomingDamagetoOnHand Exception Waiting for Approval"
+    },
+    {
+        "userType": "SupplierUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Receipts",
+        "screenName": "CancelPickingSlip Waiting For Confirmation"
+    },
+    {
+        "userType": "SupplierUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Receipts",
+        "screenName": "SKU QA & Binning Slip Waiting for Confirmation"
+    },
+    {
+        "userType": "SupplierUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Receipts",
+        "screenName": "Unconfirmed IST Of Cusissue"
+    },
+    {
+        "userType": "SupplierUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Receipts",
+        "screenName": "Waiting for GateInward"
+    },
+    {
+        "userType": "SupplierUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Receipts",
+        "screenName": "Waiting for Inbound SKU Movement"
+    },
+    {
+        "userType": "SupplierUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Receipts",
+        "screenName": "Waiting for Stock Transfer from Onhand to Damaged"
+    },
+    {
+        "userType": "SupplierUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Sales",
+        "screenName": "OutgoingPackingSlip Waiting For Confirmation"
+    },
+    {
+        "userType": "SupplierUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Sales",
+        "screenName": "Pick And Load Waiting for Confirmation"
+    },
+    {
+        "userType": "SupplierUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Sales",
+        "screenName": "PickingSlip Waiting For Confirmation"
+    },
+    {
+        "userType": "SupplierUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Sales",
+        "screenName": "PickToPackSlip Waiting For Confirmation"
+    },
+    {
+        "userType": "SupplierUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Sales",
+        "screenName": "Sales Order Marked for Cancellation"
+    },
+    {
+        "userType": "SupplierUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Sales",
+        "screenName": "Sales Order Waiting For Approval"
+    },
+    {
+        "userType": "SupplierUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Advance Shipping Note",
+        "screenName": "Create Advance Shipping Note With PO"
+    },
+    {
+        "userType": "SupplierUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Advance Shipping Note",
+        "screenName": "Create Advance Shipping Notewithout PO"
+    },
+    {
+        "userType": "SupplierUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Advance Shipping Note",
+        "screenName": "Update Advance Shipping Notewithout PO"
+    },
+    {
+        "userType": "SupplierUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Enquiry",
+        "screenName": "Search Advance Shipping Notes"
+    },
+    {
+        "userType": "SupplierUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Enquiry",
+        "screenName": "Search Gate Inward Line Wise"
+    },
+    {
+        "userType": "SupplierUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Enquiry",
+        "screenName": "Search Purchase Orders"
+    },
+    {
+        "userType": "SupplierUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Reports",
+        "screenName": "ASN Update History Report"
+    },
+    {
+        "userType": "SupplierUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Reports",
+        "screenName": "Goods Inward Report"
+    },
+    {
+        "userType": "SupplierUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Reports",
+        "screenName": "GRN Reconciliation Reports"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "Cost Bucket",
+        "screenName": "Create Cost Bucket"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "Cost Bucket",
+        "screenName": "Search Cost Bucket"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "Freight Forwarder",
+        "screenName": "Create Freight Forwarder"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "Freight Forwarder",
+        "screenName": "Update Freight Forwarder"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "PutAway Rules",
+        "screenName": "Associate Location Type To Pack Type"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "PutAway Rules",
+        "screenName": "Reserve Location For SKU"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "PutAway Rules",
+        "screenName": "Reserve Locations For Company"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "PutAway Rules",
+        "screenName": "Reserve Locations For SKU Category"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "PutAway Rules",
+        "screenName": "Search Company Reserved Locations"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "PutAway Rules",
+        "screenName": "Search SKU Reserved Locations"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "MHE Type",
+        "screenName": "Create MHE Type"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "MHE Type",
+        "screenName": "Search MHE Type"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "Pack Type",
+        "screenName": "Create Pack Type"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "Pack Type",
+        "screenName": "Update Pack Type"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "Route",
+        "screenName": "Create Route"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "Route",
+        "screenName": "Search Route"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "Vehicle Setup",
+        "screenName": "Create Target Time"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "Vehicle Setup",
+        "screenName": "Search Target Time"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "U OM",
+        "screenName": "Create UOM"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "U OM",
+        "screenName": "Search UOM"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "VAS Activity",
+        "screenName": "Create VAS Activity"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "VAS Activity",
+        "screenName": "Search VAS Activity"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "Vehicle Setup",
+        "screenName": "Create Vehicle Check List"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "Vehicle Setup",
+        "screenName": "Search Vehicle Check List"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "SKU Type",
+        "screenName": "Create SKU Type"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "SKU Type",
+        "screenName": "Search SKU Type"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "Resource Type",
+        "screenName": "Create Resource Type"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "Resource Type",
+        "screenName": "Search Resource Type"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "ReplenishmentSetup",
+        "screenName": "Replenishment Instruction Configuration"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "Resource Type",
+        "screenName": "Transaction Type Resource Type Mapping"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "Order Type",
+        "screenName": "Create Order Type"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "Order Type",
+        "screenName": "Search Order Type"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "Container Type",
+        "screenName": "Create Container Type"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "Container Type",
+        "screenName": "Search Container Type"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "Vehicle Setup",
+        "screenName": "Create Vehicle/Trailer Type"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "Vehicle Setup",
+        "screenName": "Search Vehicle/Trailer Type"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "Putaway Rules",
+        "screenName": "Dimension Definition Capacity"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "Vehicle Checklist",
+        "screenName": "Create Vehicle CheckList"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "Vehicle Checklist",
+        "screenName": "Search Vehicle CheckList"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "Vehicle Checklist",
+        "screenName": "Map Vehicle Checklist"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "Allocation Rules",
+        "screenName": "Allocation Priority"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "W/H Ad-hoc Activity",
+        "screenName": "Create W/H Ad-hoc Activity"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "W/H Ad-hoc Activity",
+        "screenName": "Search W/H Ad-hoc Activity"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "Cost Bucket",
+        "screenName": "Search SKU Cost"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "Target Time",
+        "screenName": "Create"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "Target Time",
+        "screenName": "Search"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "Vehicle Check List",
+        "screenName": "Create Vehicle Check List"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "Vehicle Check List",
+        "screenName": "Search Vehicle Check List"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "Order Type",
+        "screenName": "Override Default Transaction Type"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Additional Setup",
+        "subMenu": "Order Type",
+        "screenName": "Manage Default Transaction Type Overrides"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Administration",
+        "subMenu": "Users",
+        "screenName": "PrintLabels"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Administration",
+        "subMenu": "License Management",
+        "screenName": "License Information"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Administration",
+        "subMenu": "Interface",
+        "screenName": "Download File Template"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Administration",
+        "subMenu": "Interface",
+        "screenName": "File Upload"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Administration",
+        "subMenu": "Interface",
+        "screenName": "Log"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Administration",
+        "subMenu": "Users",
+        "screenName": "Map User Cost Bucket"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Administration",
+        "subMenu": "Users",
+        "screenName": "Map User Company"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Administration",
+        "subMenu": "Users",
+        "screenName": "Map User Role"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Administration",
+        "subMenu": "Users",
+        "screenName": "Map User Warehouse"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Administration",
+        "subMenu": "Users",
+        "screenName": "Change Password"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Administration",
+        "subMenu": "Users",
+        "screenName": "Search Users"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Inventory Origin Report"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Kitting",
+        "screenName": "Create KIT"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Stock Taking",
+        "screenName": "Redownload Internal Stock Movement Slip"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Enquiry",
+        "screenName": "Stock Ledger"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Inventory Reconciliation",
+        "screenName": "Inventory Reconciliation By Name"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Inventory Reconciliation",
+        "screenName": "Inventory Reconciliation By Inst. No."
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Inventory Reconciliation",
+        "screenName": "Inventory Reconciliation By SKU"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Kitting",
+        "screenName": "De-Kitting"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Stock Taking Variance Reports"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Stock Taking",
+        "screenName": "Adjust Stock"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Stock Taking",
+        "screenName": "Clear Stock Taking Instruction"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Stock Taking",
+        "screenName": "Create Stock Taking Instruction"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Stock Taking",
+        "screenName": "Re Download Stock Taking Excel"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Stock Taking",
+        "screenName": "Stock Taking Instruction Report"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Stock Taking",
+        "screenName": "Upload Stock Taking Instruction"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Stock Transfer",
+        "screenName": "Resource Capture"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Inventory Reconciliation",
+        "screenName": "Redownload Internal Stock Movement Slip"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Forecast",
+        "screenName": "Run Forecast"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Forecast",
+        "screenName": "Convert Orders"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Forecast",
+        "screenName": "Forecast Confirmation Upload"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Goods Received Note Report"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Daily Movement Report"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Inventory Reconciliation",
+        "screenName": "Cancel Stock Taking Instruction"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Primary Company Wise Location Utilization Report"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Last Cut Off Documents Report"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Planned Vs Actual Material In Reports"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Current Inventory Reports"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Material Dispatch Reports"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Material In Out Reports"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Material In Reports"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Approval",
+        "screenName": "Exceptional Quantity Approvals"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Approval",
+        "screenName": "Pack Exceptional Quantity Approvals"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Cycle Count",
+        "screenName": "Adjust Stock"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Cycle Count",
+        "screenName": "Clear Cycle Count Instruction"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Cycle Count",
+        "screenName": "Create Cycle Count Instruction"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Cycle Count",
+        "screenName": "Cycle Count Instruction Report"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Cycle Count",
+        "screenName": "Re Download Cycle Count Excel"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Cycle Count",
+        "screenName": "Upload Cycle Count Instruction"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Enquiry",
+        "screenName": "Search Inventory Exceptions"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Enquiry",
+        "screenName": "Search SKU Stock"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Enquiry",
+        "screenName": "Search SKU Stock Transactions"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Component SKU Issue And Receipts Report"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Customer Wise Sales Return Reason Reports"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Cycle Count Variance Reports"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Daily Inward Outward Reports"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Damages Breakdown Reports"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Damages Reports"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Empty Bins Reports"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Internal Stock Transfer Reports"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Inventory Summary Reports"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Kits And Components Report"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Location Utilization Report"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Material Movement Reports"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Out Of Stock Inventory Reports"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "SKU Stock Report With Weight"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "SKU Wise Sales Return Reason Reports"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Product Batch Dispatch Reports"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Shortage Reports"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Stock Reports"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Reports",
+        "screenName": "Inventory Reconciliation Variance Report"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Inventory Reconciliation",
+        "screenName": "Adjust Stock"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Inventory Reconciliation",
+        "screenName": "Clear Stock Taking Instruction"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Inventory Reconciliation",
+        "screenName": "Create Stock Taking Instruction"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Inventory Reconciliation",
+        "screenName": "Re Download Stock Taking Excel"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Inventory Reconciliation",
+        "screenName": "Inventory Reconciliation Report"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Inventory Reconciliation",
+        "screenName": "Upload Stock Taking Instruction"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Stock Transfer",
+        "screenName": "Confirm Stock Transfer"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Stock Transfer",
+        "screenName": "Create External Stock Transfer"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Stock Transfer",
+        "screenName": "Create Internal Stock Transfer"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Stock Transfer",
+        "screenName": "Upload Stock Transfer"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "Stock Write Off",
+        "screenName": "Write Off Invoice"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Inventory",
+        "subMenu": "U OM Conversion",
+        "screenName": "Inventory UOM Conversion"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Cycle Count Awaiting Adjustment"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Stock Awaiting Adjustment"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Carton Damage to Onhand"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Damage to Carton Damage"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Damage to Damage Unit"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Damage to Graded"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Damage to Insured"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Damage Unit to Onhand"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Graded to Onhand"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Incoming Damage to OnHand"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Incoming Shortage to OnHand"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - InStock Damage to OnHand"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - InStock Shortage to OnHand"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Insured to Onhand"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Onhand to Damage"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Onhand to Excess"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Onhand to Returned"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Outgoing Damage to OnHand"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST - Outgoing Shortage to OnHand"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST Of AllocatedStock"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST Of Cusissue"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory",
+        "screenName": "Unconfirmed IST Of OnhandStock"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory Exceptions",
+        "screenName": "LocationTransferOfAllocatedStock Exception Waiting for Approval"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory Exceptions",
+        "screenName": "SKUQAAndBinning Exception Waiting for Approval"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory Exceptions",
+        "screenName": "Picking Exception Waiting for Approval"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Inventory Exceptions",
+        "screenName": "StockTransferfromIncomingDamagetoOnHand Exception Waiting for Approval"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Receipts",
+        "screenName": "CancelPickingSlip Waiting For Confirmation"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Receipts",
+        "screenName": "SKU QA & Binning Slip Waiting for Confirmation"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Receipts",
+        "screenName": "Unconfirmed IST Of Cusissue"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Receipts",
+        "screenName": "Waiting for GateInward"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Receipts",
+        "screenName": "Waiting for Inbound SKU Movement"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Receipts",
+        "screenName": "Waiting for Stock Transfer from Onhand to Damaged"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Sales",
+        "screenName": "OutgoingPackingSlip Waiting For Confirmation"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Sales",
+        "screenName": "Pick And Load Waiting for Confirmation"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Sales",
+        "screenName": "PickingSlip Waiting For Confirmation"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Sales",
+        "screenName": "PickToPackSlip Waiting For Confirmation"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Sales",
+        "screenName": "Sales Order Marked for Cancellation"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Notifications",
+        "subMenu": "Sales",
+        "screenName": "Sales Order Waiting For Approval"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Inbound SKU Movement",
+        "screenName": "SKU Labelling Document Wise"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Out Bound SKU Movement",
+        "screenName": "SKU Labelling Picking Wise"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Advance Shipping Note",
+        "screenName": "Create Advance Shipping Note With PO"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Advance Shipping Note",
+        "screenName": "Create Advance Shipping Notewithout PO"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Advance Shipping Note",
+        "screenName": "Update Advance Shipping Notewithout PO"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Advance Shipping Note",
+        "screenName": "Upload Advance Shipping Note without PO"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Advance Shipping Note",
+        "screenName": "Upload Advance Shipping Notewithout PO With Kit"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Inbound SKU Movement",
+        "screenName": "Re Download Inbound SKU Movement Slip"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Inbound SKU Movement",
+        "screenName": "Reprint Inbound SKU Movement Report"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Enquiry",
+        "screenName": "Search Advance Shipping Notes"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Enquiry",
+        "screenName": "Search Gate Inward"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Enquiry",
+        "screenName": "Search Gate Inward Line Wise"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Enquiry",
+        "screenName": "Search Inbound SKU Movement"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Enquiry",
+        "screenName": "Search Purchase Orders"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Gate Inward",
+        "screenName": "Create Gate Inward"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Gate Inward",
+        "screenName": "Create Gate Inward And Count"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Inbound SKU Movement",
+        "screenName": "Confirm Inbound SKU Movement"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Inbound SKU Movement",
+        "screenName": "Create Inbound SKU Movement"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Inbound SKU Movement",
+        "screenName": "Upload Inbound SKU Movement"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Miscellaneous Receipts",
+        "screenName": "Create Miscellaneous Receipt"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Miscellaneous Receipts",
+        "screenName": "Miscellaneous Receipt Upload"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Purchase Orders",
+        "screenName": "Create Purchase Order"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Reports",
+        "screenName": "ASN Update History Report"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Reports",
+        "screenName": "Goods Inward Report"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Reports",
+        "screenName": "GRN Reconciliation Reports"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Reports",
+        "screenName": "Inbound Discrepancy Reports"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Reports",
+        "screenName": "Miscellaneous Receipt Reports"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Reports",
+        "screenName": "Receiving Turn Around Time Reports"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Purchase Orders",
+        "screenName": "Update Purchase Orders"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Inbound SKU Movement",
+        "screenName": "Resource Capture"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Enquiry",
+        "screenName": "Search PO Line"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Reports",
+        "screenName": "PO Details Report"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Receipts",
+        "subMenu": "Reports",
+        "screenName": "PO Reconciliation Report"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Sales",
+        "subMenu": "Outbound Pack Movement",
+        "screenName": "Confirm Out Bound Pack Movement Slip"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Sales",
+        "subMenu": "Out Bound SKU Movement",
+        "screenName": "Resource Capture"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Sales",
+        "subMenu": "Allocation",
+        "screenName": "Cancel Allocation"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Sales",
+        "subMenu": "Allocation",
+        "screenName": "Manual Allocation"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Sales",
+        "subMenu": "Allocation",
+        "screenName": "Retry Crossdock Allocation"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Sales",
+        "subMenu": "Out Bound Pack Movement",
+        "screenName": "Redownload Out Bound Pack Movement Slip"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Sales",
+        "subMenu": "Out Bound SKU Movement",
+        "screenName": "Redownload Out Bound SKU Movement Slip"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Sales",
+        "subMenu": "Out Bound Pack Movement",
+        "screenName": "Reprint Out Bound Pack Movement Report"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Sales",
+        "subMenu": "Out Bound SKU Movement",
+        "screenName": "Reprint Out Bound SKU Movement Report"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Sales",
+        "subMenu": "Enquiry",
+        "screenName": "Search Dispatch Note"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Sales",
+        "subMenu": "Enquiry",
+        "screenName": "Search Outbound Pack Movement"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Sales",
+        "subMenu": "Enquiry",
+        "screenName": "Search Outbound SKU Movement"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Sales",
+        "subMenu": "Enquiry",
+        "screenName": "Search Proof Of Delivery"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Sales",
+        "subMenu": "Enquiry",
+        "screenName": "Search Sales Order"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Sales",
+        "subMenu": "Enquiry",
+        "screenName": "Searchsales Order line"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Sales",
+        "subMenu": "Out Bound SKU Movement",
+        "screenName": "Confirm Out Bound SKU Movement Slip"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Sales",
+        "subMenu": "Out Bound SKU Movement",
+        "screenName": "Create Outbound SKU Movement"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Sales",
+        "subMenu": "Out Bound SKU Movement",
+        "screenName": "Upload Out Bound SKU Movement Slip"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Sales",
+        "subMenu": "Out Bound SKU Movement",
+        "screenName": "Confirm Out Bound Pack Movement Slip"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Sales",
+        "subMenu": "Outbound Pack Movement",
+        "screenName": "Create Outbound Pack Movement"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Sales",
+        "subMenu": "Outbound Pack Movement",
+        "screenName": "Upload Out Bound Pack Movement Slip"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Sales",
+        "subMenu": "Packing",
+        "screenName": "Close Pack"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Sales",
+        "subMenu": "Packing",
+        "screenName": "Create Packing"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Sales",
+        "subMenu": "Packing",
+        "screenName": "Merge Pack"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Sales",
+        "subMenu": "Packing",
+        "screenName": "Upload Pack"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Sales",
+        "subMenu": "Reports",
+        "screenName": "Misc Issue Write Off Report"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Sales",
+        "subMenu": "Reports",
+        "screenName": "Outbound Turn Around Time Report"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Sales",
+        "subMenu": "Reports",
+        "screenName": "Pack Report"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Sales",
+        "subMenu": "Reports",
+        "screenName": "Packing List Report"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Sales",
+        "subMenu": "Dispatch Note",
+        "screenName": "Cancel Dispatch Note"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Sales",
+        "subMenu": "Dispatch Note",
+        "screenName": "Close Dispatch Note"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Sales",
+        "subMenu": "Dispatch Note",
+        "screenName": "Create And Close Dispatch Note"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Sales",
+        "subMenu": "Dispatch Note",
+        "screenName": "Create Dispatch Note"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Sales",
+        "subMenu": "Dispatch Note",
+        "screenName": "Create Dispatch Note From Loaded"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Sales",
+        "subMenu": "Dispatch Note",
+        "screenName": "Create Dispatch Note From Picking"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Sales",
+        "subMenu": "Material Out",
+        "screenName": "Create Miscellaneous Issue"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Sales",
+        "subMenu": "Proof Of Delivery",
+        "screenName": "Create Proof Of Delivery"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Sales",
+        "subMenu": "Reports",
+        "screenName": "SO Update History Report"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Sales",
+        "subMenu": "Reports",
+        "screenName": "VLS Report"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Sales",
+        "subMenu": "Sales Order",
+        "screenName": "Approve Sales Order"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Sales",
+        "subMenu": "Sales Order",
+        "screenName": "Back Order Cancellation"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Sales",
+        "subMenu": "Sales Order",
+        "screenName": "Cancel Sales Order Lines"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Sales",
+        "subMenu": "Sales Order",
+        "screenName": "Create Sales Order"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Sales",
+        "subMenu": "Sales Order",
+        "screenName": "Print Sales Order"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Sales",
+        "subMenu": "Sales Order",
+        "screenName": "Update Packing List"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Sales",
+        "subMenu": "Sales Order",
+        "screenName": "Update Sales Order"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Sales",
+        "subMenu": "Sales Order",
+        "screenName": "Upload Sales Order"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Sales",
+        "subMenu": "Sales Order",
+        "screenName": "Upload Sales Order With Kit BOM"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Sales",
+        "subMenu": "Sales Order",
+        "screenName": "Vehicle Loading Slip"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Sales",
+        "subMenu": "Sales Return",
+        "screenName": "Confirm Sales Returns"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Sales",
+        "subMenu": "Sales Return",
+        "screenName": "Create Sales Returns"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Sales",
+        "subMenu": "Dispatch Note",
+        "screenName": "Loading Report"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Sales",
+        "subMenu": "Dispatch Note",
+        "screenName": "Print Delivery Challan"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Sales",
+        "subMenu": "Dispatch Note",
+        "screenName": "Print Dispatch Note"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Sales",
+        "subMenu": "Dispatch Note",
+        "screenName": "Upload Tracking Number"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Sales",
+        "subMenu": "Out Bound SKU Movement",
+        "screenName": "Confirm Outbound SKU Movement"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Sales",
+        "subMenu": "Sales Order",
+        "screenName": "Vehicle Inward Register"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Setup",
+        "subMenu": "Supplier",
+        "screenName": "Create Supplier Lead Time"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Setup",
+        "subMenu": "Supplier",
+        "screenName": "Search Supplier Lead Time"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Setup",
+        "subMenu": "Primary Company Setup",
+        "screenName": "Create Customer Type"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Setup",
+        "subMenu": "Primary Company Setup",
+        "screenName": "Create Packing Group"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Setup",
+        "subMenu": "Primary Company Setup",
+        "screenName": "Search Purchase Order Type"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Setup",
+        "subMenu": "Primary Company Setup",
+        "screenName": "Search Reason"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Setup",
+        "subMenu": "Primary Company Setup",
+        "screenName": "Search Sales Order Type"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Setup",
+        "subMenu": "Primary Company Setup",
+        "screenName": "Update Primary Company"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Setup",
+        "subMenu": "Warehouse Setup",
+        "screenName": "Printer Configuration"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Setup",
+        "subMenu": "Warehouse Setup",
+        "screenName": "Search Warehouse"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Setup",
+        "subMenu": "Primary Company Setup",
+        "screenName": "Create Purchase Order Type"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Setup",
+        "subMenu": "Primary Company Setup",
+        "screenName": "Create Reason"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Setup",
+        "subMenu": "Primary Company Setup",
+        "screenName": "Create Sales Order Type"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Setup",
+        "subMenu": "Primary Company Setup",
+        "screenName": "Map Warehouse Company"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Setup",
+        "subMenu": "Primary Company Setup",
+        "screenName": "Primary Company Setup"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Setup",
+        "subMenu": "Primary Company Setup",
+        "screenName": "Search Customer Type"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Setup",
+        "subMenu": "Primary Company Setup",
+        "screenName": "Search Packing Group"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Setup",
+        "subMenu": "SKU",
+        "screenName": "SKU Labelling SKU Wise"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Setup",
+        "subMenu": "SKU",
+        "screenName": "Update SKU Inventory"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Setup",
+        "subMenu": "SKU",
+        "screenName": "Upload SKU Description Update"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Setup",
+        "subMenu": "Location Configuration",
+        "screenName": "Upload Locations"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Setup",
+        "subMenu": "Supplier",
+        "screenName": "Create Supplier"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Setup",
+        "subMenu": "Supplier",
+        "screenName": "Search Supplier"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Setup",
+        "subMenu": "Location Configuration",
+        "screenName": "Search Dimension Definition"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Setup",
+        "subMenu": "Location Configuration",
+        "screenName": "Search Location Hierarchy"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Setup",
+        "subMenu": "Location Configuration",
+        "screenName": "Search Location Restriction"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Setup",
+        "subMenu": "Location Configuration",
+        "screenName": "Search Location Type Pack Type Associations"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Setup",
+        "subMenu": "Location Configuration",
+        "screenName": "Search Locations"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Setup",
+        "subMenu": "SKU",
+        "screenName": "Create SKU"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Setup",
+        "subMenu": "SKU",
+        "screenName": "Create SKU Additional UOM"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Setup",
+        "subMenu": "SKU",
+        "screenName": "Create SKU Category"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Setup",
+        "subMenu": "SKU",
+        "screenName": "SKU Inventory Upload"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Setup",
+        "subMenu": "SKU",
+        "screenName": "SKU Supplier Mapping"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Setup",
+        "subMenu": "SKU",
+        "screenName": "SKU Upload"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Setup",
+        "subMenu": "SKU",
+        "screenName": "SKU Warehouse Mapping"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Setup",
+        "subMenu": "SKU",
+        "screenName": "Search SKU"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Setup",
+        "subMenu": "SKU",
+        "screenName": "Search SKU Category"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Setup",
+        "subMenu": "SKU",
+        "screenName": "SKU Cost Bucket Mapping"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Setup",
+        "subMenu": "SKU",
+        "screenName": "B OM Creation"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Setup",
+        "subMenu": "Location Configuration",
+        "screenName": "Auto Generate Locations"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Setup",
+        "subMenu": "Location Configuration",
+        "screenName": "Create Dimension Definition"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Setup",
+        "subMenu": "Location Configuration",
+        "screenName": "Create Location Hierarchy"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Setup",
+        "subMenu": "Location Configuration",
+        "screenName": "Create Location Restriction"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Setup",
+        "subMenu": "Location Configuration",
+        "screenName": "Create Locations"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Setup",
+        "subMenu": "Location Configuration",
+        "screenName": "Location Labelling"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Setup",
+        "subMenu": "Location Configuration",
+        "screenName": "Print Location Tags"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Setup",
+        "subMenu": "Customers",
+        "screenName": "Create Additional Bill To Address"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Setup",
+        "subMenu": "Customers",
+        "screenName": "Create Additional Ship To Address"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Setup",
+        "subMenu": "Customers",
+        "screenName": "Create Customer"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Setup",
+        "subMenu": "Customers",
+        "screenName": "Create Customer SKU Shelf Life"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Setup",
+        "subMenu": "Customers",
+        "screenName": "Create Customer Wise SKU Total Shelf Life"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Setup",
+        "subMenu": "Customers",
+        "screenName": "Create Warehouse Wise Allocation Priority Rules"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Setup",
+        "subMenu": "Customers",
+        "screenName": "Search Additional Bill To Address"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Setup",
+        "subMenu": "Customers",
+        "screenName": "Search Additional Ship To Address"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Setup",
+        "subMenu": "Customers",
+        "screenName": "Search Customer"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Setup",
+        "subMenu": "Warehouse Setup",
+        "screenName": "Capture Warehouse Running Cost"
+    },
+    {
+        "userType": "WarehouseUser",
+        "mainMenu": "Warehouse",
+        "subMenu": "Warehouse",
+        "screenName": "Search Warehouse Running Cost"
+    }
+]
